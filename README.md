@@ -12,7 +12,7 @@ Feel free to clone or fork this repository to create your own CV. Customize the 
 ## Attributions
 
 * The theme for this CV has been forked from the [Forty Seconds CV](https://github.com/PandaScience/FortySecondsCV) theme by René Wirnata.
-* FortySecondsCV, in turn, is based on the style ideas of the [Twenty Seconds Curriculum Vitae in LaTex](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex) by Carmine Spagnuolo.
+* Forty Seconds CV, in turn, is based on the style ideas of the [Twenty Seconds Curriculum Vitae in LaTex](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex) by Carmine Spagnuolo.
 * Language icons in the template have been taken from [GoSquared's repository](https://github.com/gosquared/flags).
 
 ## License
