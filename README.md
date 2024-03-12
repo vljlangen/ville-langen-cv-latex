@@ -11,10 +11,10 @@ Feel free to clone or fork this repository to create your own CV. Customize the 
 
 ## Attributions
 
-* The theme for this CV has been forked from the ["FortySecondsCV"](https://github.com/PandaScience/FortySecondsCV) theme.
-* FortySecondsCV, in turn, is based on the style ideas of the [twentysecondscv class](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex) by Carmine Spagnuolo.
-* Language icons in the template are taken from [gosquared's repository](https://github.com/gosquared/flags).
+* The theme for this CV has been forked from the [Forty Seconds CV](https://github.com/PandaScience/FortySecondsCV) theme by René Wirnata.
+* FortySecondsCV, in turn, is based on the style ideas of the [Twenty Seconds Curriculum Vitae in LaTex](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex) by Carmine Spagnuolo.
+* Language icons in the template have been taken from [GoSquared's repository](https://github.com/gosquared/flags).
 
 ## License
 
-The GitHub project that this CV was forked from (Forty Seconds CV) is distributed under the BSD 3-Clause license. See the LICENSE file for more information.
+The GitHub project that this CV was forked from (i.e. Forty Seconds CV) is distributed under the BSD 3-Clause license. See the LICENSE file for more information.
